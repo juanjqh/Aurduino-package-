@@ -8,7 +8,7 @@
       },
       "platforms": [
         {
-          "name": "Infineon's XMC Microcontroller",
+          "name": "aurduino shieldbuddy",
           "architecture": "tricore",
           "version": "1.0.0",
           "category": "Contributed",
@@ -35,8 +35,8 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "Infineon",
-              "name": "XMCFlasher",
+              "packager": "aurduino",
+              "name": "aurixflasher",
               "version": "1.0.0"
             }
           ]

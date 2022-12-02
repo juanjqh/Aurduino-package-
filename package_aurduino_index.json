@@ -27,35 +27,14 @@
               "name": "ShieldBuddyTC275"
             },
             {
-              "name": "ShieldBuddyTC375"
-            },
-            {
               "name": "AurixLiteTC275D"
             }
           ],
           "toolsDependencies": [
-            {
-              "packager": "aurduino",
-              "name": "aurixflasher",
-              "version": "1.0.0"
-            }
           ]
         }
       ],
       "tools": [
-        {
-          "name": "aurixflasher",
-          "version": "1.0.0",
-          "systems": [
-            {
-              "host": "i686-mingw32",
-              "url": "https://github.com/juanjqh/tool-aurixflasher/archive/refs/heads/main.zip",
-              "archiveFileName": "main.zip",
-              "checksum": "SHA-256:2560096e747b73874ceec0cabe55e770e225b026c05494b81cb798c15b5dba7e",
-              "size": "1928055"
-            }
-          ]
-        }
       ]
     }
   ]

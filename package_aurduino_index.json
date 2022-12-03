@@ -9,8 +9,7 @@
       "platforms": [
         {
           "name": "aurduino shieldbuddy",
-          "architecture": "tricore",
-          "version": "1.0.0",
+          "architecture": "aurix",
           "category": "Contributed",
           "url": "https://github.com/juanjqh/framework-aurduino/archive/refs/heads/main.zip",
           "archiveFileName": "main.zip",
@@ -22,12 +21,6 @@
           "boards": [
             {
               "name": "ShieldBuddyTC275_Dx"
-            },
-            {
-              "name": "ShieldBuddyTC275"
-            },
-            {
-              "name": "AurixLiteTC275D"
             }
           ],
           "toolsDependencies": [

@@ -30,6 +30,11 @@
             }
           ],
           "toolsDependencies": [
+            {
+              "packager": "aurduinotc275",
+              "name": "aurixflasher",
+              "version": "1.0.00"
+            }
           ]
         }
       ],

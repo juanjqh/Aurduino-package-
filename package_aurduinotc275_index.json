@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "aurduino",
+      "name": "aurduinoTC275",
       "websiteURL": "https://aurduino.boards.net/",
       "help": {
         "online": "https://aurduino.boards.net/"

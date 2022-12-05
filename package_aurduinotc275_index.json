@@ -9,6 +9,7 @@
       "platforms": [
         {
           "name": "aurduino shieldbuddy",
+          "version": "1.0.0",
           "architecture": "aurix",
           "category": "Contributed",
           "url": "https://github.com/juanjqh/Aurduino-package-/blob/107c140013e0eead3e07dac31a4956b2df1e7c53/AurduinoTC275.zip",
@@ -39,20 +40,19 @@
         }
       ],
       "tools": [
-          {
-            "name": "aurixflasher",
-            "version": "1.0.0",
-            "systems":
-            [
-              {
-                "host": "i686-mingw32",
-                "url": "https://github.com/juanjqh/tool-aurixflasher/aurixflasher.zip",
-                "archiveFileName": "aurixflasher.zip",
-                "checksum": "SHA-256:39fa7680014a692457cd886bfb700a1db3aefd17a0e84d858f6a5397ac6e5fe0",
-                "size": "1871514"
-              }
-            ]
-          }
+        {
+          "name": "aurixflasher",
+          "version": "1.0.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/juanjqh/tool-aurixflasher/aurixflasher.zip",
+              "archiveFileName": "aurixflasher.zip",
+              "checksum": "SHA-256:39fa7680014a692457cd886bfb700a1db3aefd17a0e84d858f6a5397ac6e5fe0",
+              "size": "1871514"
+            }
+          ]
+        }
       ]
     }
   ]

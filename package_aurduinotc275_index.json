@@ -12,10 +12,10 @@
           "version": "1.0.0",
           "architecture": "aurix",
           "category": "Contributed",
-          "url": "https://github.com/juanjqh/Aurduino-package-/blob/107c140013e0eead3e07dac31a4956b2df1e7c53/AurduinoTC275.zip",
+          "url": "https://github.com/juanjqh/Aurduino-package-/raw/main/aurduinoTC275.zip",
           "archiveFileName": "AurduinoTC275.zip",
-          "checksum": "SHA-256:133caefbad03e6b93c7c6960c801e2cbc9d9f4a5e67c192011ee19723807bd31",
-          "size": "28124435",
+          "checksum": "SHA-256:78243cf0cbd1b4a13ac2ca688c16e2142dcf95106ab379109fd93ff53beb4c57",
+          "size": "28174695",
           "help": {
             "online": ""
           },
@@ -46,7 +46,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/juanjqh/tool-aurixflasher/aurixflasher.zip",
+              "url": "https://github.com/juanjqh/tool-aurixflasher/raw/main/aurixflasher.zip",
               "archiveFileName": "aurixflasher.zip",
               "checksum": "SHA-256:39fa7680014a692457cd886bfb700a1db3aefd17a0e84d858f6a5397ac6e5fe0",
               "size": "1871514"

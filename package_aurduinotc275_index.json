@@ -9,6 +9,7 @@
       "platforms": [
         {
           "name": "aurduino shieldbuddy",
+          "version": "1.0.0",
           "architecture": "aurix",
           "category": "Contributed",
           "url": "https://github.com/juanjqh/Aurduino-package-/raw/main/aurduinoTC275.zip",
